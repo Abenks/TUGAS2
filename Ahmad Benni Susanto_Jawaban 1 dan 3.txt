@@ -1,0 +1,13 @@
+1. RESTful API / REST API merupakan implementasi dari API (Application Programming Interface). 
+   REST (Representional State Transfer) adalah suatu arsitektur metode komunikasi yang menggunakan 
+   protokol HTTP untuk pertukaran data dan metode ini sering diterapkan dalam pengembangan aplikasi.
+
+3. Headless architecture adalah konsep pengembangan software yang memisahkan lapisan frontend 
+   (antarmuka pengguna – UI) dan lapisan backend (logika bisnis) situs web. Dengan cara ini, bahkan 
+   sebagian besar bisnis dewasa mendapatkan kemampuan manuver dan fleksibilitas dari sebuah startup.
+   Kelebihan :
+   > Lapisan Presentasi Terpisah
+   > Multi Saluran
+   > Pengalaman Pelanggan yang Ditingkatkan
+   > Waktu Load Cepat
+   > Keunggulan Kompetitif
